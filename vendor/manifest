@@ -1,0 +1,37 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/elazarl/goproxy",
+			"repository": "https://github.com/elazarl/goproxy",
+			"revision": "bee2110779c23d999b253c0ec8873757dc43d9a3",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/go-ini/ini",
+			"repository": "https://github.com/go-ini/ini",
+			"revision": "9f4d2712cf687b68fad24366f81eaee163079090",
+			"branch": "v1"
+		},
+		{
+			"importpath": "github.com/inconshreveable/go-vhost",
+			"repository": "https://github.com/inconshreveable/go-vhost",
+			"revision": "8cbc5089df5ba3e44644d39e8d1ec375d6d842f9",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/rogpeppe/go-charset/charset",
+			"repository": "https://github.com/rogpeppe/go-charset",
+			"revision": "e9ff06f347d3f5d0013d59ed83754f0e88de10d4",
+			"branch": "master",
+			"path": "/charset"
+		},
+		{
+			"importpath": "github.com/rogpeppe/go-charset/data",
+			"repository": "https://github.com/rogpeppe/go-charset",
+			"revision": "e9ff06f347d3f5d0013d59ed83754f0e88de10d4",
+			"branch": "master",
+			"path": "/data"
+		}
+	]
+}

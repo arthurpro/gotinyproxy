@@ -1,0 +1,6 @@
+.idea
+.DS_*
+
+/pkg
+/vendor/src
+/bin
